@@ -37,7 +37,7 @@ async def on_member_remove(member:discord.Member):
 
 if __name__ == '__main__':
 	keep_alive.keep_alive()
-	bot.run('OTE2OTkwNTk0OTEwNDE2ODk2.YayMCg.QeYVNp4qPmFb6kJnWSHCfddtMj8')        
+	bot.run('bot toekn here')        
 
 
 
